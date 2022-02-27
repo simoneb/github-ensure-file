@@ -1,3 +1,5 @@
+> The license of this software has changed to AWISC - Anti War ISC License
+
 # github-ensure-file
 
 Ensures a file exists across repos of a user or an org in GitHub.
