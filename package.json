@@ -12,7 +12,7 @@
   "author": "Simone Busoli <simone.busoli@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^19.0.1",
+    "@octokit/rest": "^20.0.1",
     "dotenv": "^16.0.0"
   },
   "devDependencies": {
