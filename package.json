@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@octokit/rest": "^22.0.0",
-    "dotenv": "^16.0.0"
+    "dotenv": "^17.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.0.0",
